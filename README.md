@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
- 
-<head>
-  <title>Princess Wolf</title>
+ <head>
+  <h1>Princess Wolf</h1>
  </head>
  <body>
 <p> Hello and wellcome to my first entry. </p>
